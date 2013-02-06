@@ -1,0 +1,6 @@
+[submodule "media-service-upnp"]
+	path = media-service-upnp
+	url = git://github.com/01org/media-service-upnp.git
+[submodule "renderer-service-upnp"]
+	path = renderer-service-upnp
+	url = git://github.com/01org/renderer-service-upnp.git
